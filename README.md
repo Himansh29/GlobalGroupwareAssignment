@@ -24,4 +24,13 @@ Before proceeding, make sure you have the following installed on your system:
    ```bash
    mvn clean package
 
+## Run the application using the Maven Spring Boot plugin:
+   ```bash
+   mvn spring-boot:run
+The application will start, and you should see log messages indicating that the server is up and running.
+
+## Accessing the API
+Once the application is up and running, you can access the API using the base URL: http://localhost:8080
+
+
 
